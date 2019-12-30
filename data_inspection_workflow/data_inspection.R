@@ -8,6 +8,9 @@
 #
 # ***************************************************************************
 
+library(car)
+library(psych)
+
 inspect_data <- function(data) {
   
   print("DATA INSPECTION WORKFLOW")
