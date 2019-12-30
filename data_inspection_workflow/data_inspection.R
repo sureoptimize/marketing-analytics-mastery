@@ -4,6 +4,8 @@
 # The following function can be used to inspect new data before analysis.
 # This code accompanies the article, "A Workflow for Inspecting Data":
 #
+# https://marketinganalyticsmastery.com/a-workflow-for-inspecting-data/
+#
 # ***************************************************************************
 
 inspect_data <- function(data) {
